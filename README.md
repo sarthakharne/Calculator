@@ -1,5 +1,4 @@
-This is the repository for the Calculator Project to set up a DevOps pipeline.
-The following tools will be required to run the code:
+This is the repository for the Calculator Project to set up a DevOps pipeline. <br> The following tools are required to run the code:
 - Git
 - Jenkins
 - Maven
